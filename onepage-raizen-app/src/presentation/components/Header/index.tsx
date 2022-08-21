@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <div>Initial structure</div>
+      <div>Initial structure 2</div>
     </header>
   )
 }
